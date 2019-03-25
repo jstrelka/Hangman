@@ -1,0 +1,33 @@
+﻿  randword.cpp
+  MyFuncts.cpp
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\myfuncts.cpp(33): warning C4018: '<': signed/unsigned mismatch
+  hangman.cpp
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(208): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(228): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(265): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(267): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(290): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(310): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(347): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(349): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(372): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(392): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(429): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(431): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(454): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(474): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(511): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(513): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(536): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(556): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(593): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(595): warning C4018: '<': signed/unsigned mismatch
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(616): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\jstre\rrcc\past_semesters\spring_18\csc 160 c++\justinstrelka_5\hangman-vector\hangman.cpp(673): warning C4715: 'drawBoard': not all control paths return a value
+  hangman.vcxproj -> C:\Users\jstre\RRCC\past_semesters\spring_18\CSC 160 C++\justinStrelka_5\hangman-vector\Debug\hangman.exe
