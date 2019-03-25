@@ -1,6 +1,5 @@
 /*
-Your Name Here
-CSC160-470
+Justin Strelka
 MyFuncts.h
 Description: function prototypes to declare the functions
 */

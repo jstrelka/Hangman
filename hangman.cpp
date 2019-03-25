@@ -1,6 +1,5 @@
 /*
 Justin Strelka
-CSC 160-470
 Program Name: Hangman Project 5
 Description: Extract words using getWords, get user input for gameplay status, initiate gameplay, print corresponding hangman board, can win!!
 Date: 4/25/2018

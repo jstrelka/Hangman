@@ -1,6 +1,5 @@
 /*
-Your Name Here
-CSC160-470
+Justin Strelka
 MyFuncts.cpp
 Description: function definitions
 */
